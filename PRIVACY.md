@@ -1,10 +1,10 @@
 # Roamote — Privacy / Datenschutz
 
-Updated / Aktualisiert: 8 September 2026
+Updated / Aktualisiert: 27 October 2026 / 27. Oktober 2026
 
 ## English
 
-Roamote connects your own or authorized computer with your paired iPhone or iPad. This policy covers the iOS/iPadOS client.
+Roamote connects your own or authorized computer with your paired iPhone or iPad. This policy covers the iOS/iPadOS client and the macOS companion offered together as Roamote. The macOS app contains no advertising or analytics SDK. The advertising and purchase sections below describe the iOS/iPadOS client.
 
 ### Remote sessions and local storage
 
@@ -30,11 +30,11 @@ Local Network access discovers and connects paired devices. On macOS, Screen Rec
 
 ### Support and privacy requests
 
-Use [Roamote support](https://github.com/LilaQ/RemoteTool-iOS-issues/issues). Do not post passwords, terminal output, personal data, pairing codes or diagnostic files in public issues. Roamote is a general utility, not directed to children. This policy will be updated when data handling changes.
+For privacy requests, contact info@emudev.de. For product help, use [Roamote support](https://github.com/LilaQ/RemoteTool-iOS-issues/issues). Do not post passwords, terminal output, personal data, pairing codes or diagnostic files in public issues. Roamote is a general utility, not directed to children. This policy will be updated when data handling changes.
 
 ## Deutsch
 
-Roamote verbindet deinen eigenen oder einen zur Nutzung freigegebenen Computer mit deinem gekoppelten iPhone oder iPad. Diese Erklärung gilt für den iOS-/iPadOS-Client.
+Roamote verbindet deinen eigenen oder einen zur Nutzung freigegebenen Computer mit deinem gekoppelten iPhone oder iPad. Diese Erklärung gilt für den iOS-/iPadOS-Client und die gemeinsam als Roamote angebotene macOS-Begleit-App. Die macOS-App enthält keine Werbe- oder Analyse-SDKs. Die Abschnitte zu Werbung und Käufen beschreiben den iOS-/iPadOS-Client.
 
 ### Fernsteuerung und lokale Speicherung
 
@@ -60,4 +60,4 @@ Der Zugriff auf das lokale Netzwerk dient zum Finden und Verbinden gekoppelter G
 
 ### Support und Datenschutzanfragen
 
-Nutze den [Roamote-Support](https://github.com/LilaQ/RemoteTool-iOS-issues/issues). Veröffentliche keine Passwörter, Terminal-Ausgaben, personenbezogenen Daten, Kopplungscodes oder Diagnosedateien in öffentlichen Issues. Roamote ist ein allgemeines Werkzeug und richtet sich nicht an Kinder. Bei Änderungen der Datenverarbeitung wird diese Erklärung aktualisiert.
+Für Datenschutzanfragen wende dich an info@emudev.de. Für Hilfe zur App nutze den [Roamote-Support](https://github.com/LilaQ/RemoteTool-iOS-issues/issues). Veröffentliche keine Passwörter, Terminal-Ausgaben, personenbezogenen Daten, Kopplungscodes oder Diagnosedateien in öffentlichen Issues. Roamote ist ein allgemeines Werkzeug und richtet sich nicht an Kinder. Bei Änderungen der Datenverarbeitung wird diese Erklärung aktualisiert.
