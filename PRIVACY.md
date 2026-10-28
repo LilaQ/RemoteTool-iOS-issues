@@ -1,6 +1,6 @@
 # Roamote — Privacy / Datenschutz
 
-Updated / Aktualisiert: 27 October 2026 / 27. Oktober 2026
+Updated / Aktualisiert: 28 October 2026 / 28. Oktober 2026
 
 ## English
 
@@ -26,7 +26,7 @@ Apple processes the one-time, non-consumable Premium purchase and payment detail
 
 ### Permissions and choices
 
-Local Network access discovers and connects paired devices. On macOS, Screen Recording captures the selected display, Accessibility enables input, and Automation may be requested for confirmed system actions. The app does not request camera, microphone, photos, contacts or location access. You can disconnect, remove paired devices, disable clipboard reception or Terminal, forget saved terminal logins, revoke macOS permissions, disable Remote Login, restore purchases or uninstall the app. Removing a paired device terminates its Roamote connection and revokes that pairing. It does not revoke independent access previously configured in macOS Remote Login.
+Local Network access discovers and connects paired devices. On macOS, Screen Recording captures the selected display, Accessibility enables input, and Automation may be requested for confirmed system actions. Camera access on iPhone and iPad is optional and used only to scan pairing QR codes on the device. Camera images are not saved or uploaded. The QR code contains the Mac’s local service name, a short-lived pairing code and its expiry; do not share it publicly. Scanning with the system Camera can open Roamote through its custom URL scheme. The app does not request microphone, photos, contacts or location access. You can disconnect, remove paired devices, disable clipboard reception or Terminal, forget saved terminal logins, revoke macOS permissions, disable Remote Login, restore purchases or uninstall the app. Removing a paired device terminates its Roamote connection and revokes that pairing. It does not revoke independent access previously configured in macOS Remote Login.
 
 ### Support and privacy requests
 
@@ -56,7 +56,7 @@ Apple verarbeitet den einmaligen, nicht verbrauchbaren Premium-Kauf und die Zahl
 
 ### Berechtigungen und Wahlmöglichkeiten
 
-Der Zugriff auf das lokale Netzwerk dient zum Finden und Verbinden gekoppelter Geräte. Unter macOS erfasst die Bildschirmaufnahme den gewählten Bildschirm, Bedienungshilfen ermöglichen Eingaben, und für bestätigte Systemaktionen kann eine Automationsfreigabe erforderlich sein. Die App fordert keinen Zugriff auf Kamera, Mikrofon, Fotos, Kontakte oder Standort an. Du kannst Verbindungen trennen, gekoppelte Geräte entfernen, Zwischenablageempfang oder Terminal deaktivieren, gespeicherte Terminal-Anmeldungen löschen, macOS-Berechtigungen entziehen, die entfernte Anmeldung abschalten, Käufe wiederherstellen oder die App deinstallieren. Das Entfernen eines gekoppelten Geräts beendet dessen Roamote-Verbindung und widerruft die Kopplung. Unabhängig eingerichtete Zugriffe über die entfernte Anmeldung von macOS werden dadurch nicht widerrufen.
+Der Zugriff auf das lokale Netzwerk dient zum Finden und Verbinden gekoppelter Geräte. Unter macOS erfasst die Bildschirmaufnahme den gewählten Bildschirm, Bedienungshilfen ermöglichen Eingaben, und für bestätigte Systemaktionen kann eine Automationsfreigabe erforderlich sein. Der Kamerazugriff auf iPhone und iPad ist optional und dient nur zum lokalen Scannen von Kopplungs-QR-Codes. Kamerabilder werden weder gespeichert noch hochgeladen. Der QR-Code enthält den lokalen Dienstnamen des Macs, einen kurzlebigen Kopplungscode und dessen Ablaufzeit; teile ihn nicht öffentlich. Die Systemkamera kann Roamote über ein eigenes URL-Schema öffnen. Die App fordert keinen Zugriff auf Mikrofon, Fotos, Kontakte oder Standort an. Du kannst Verbindungen trennen, gekoppelte Geräte entfernen, Zwischenablageempfang oder Terminal deaktivieren, gespeicherte Terminal-Anmeldungen löschen, macOS-Berechtigungen entziehen, die entfernte Anmeldung abschalten, Käufe wiederherstellen oder die App deinstallieren. Das Entfernen eines gekoppelten Geräts beendet dessen Roamote-Verbindung und widerruft die Kopplung. Unabhängig eingerichtete Zugriffe über die entfernte Anmeldung von macOS werden dadurch nicht widerrufen.
 
 ### Support und Datenschutzanfragen
 
